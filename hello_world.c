@@ -11,7 +11,7 @@ int main(){
 	char string4[20];   
 	char string5[20];   
 
-  	printf( "\n Hi Han Wei\n" );  /* Asks for age */
+  	printf( "\n Hello Han Wei\n" );  /* Asks for age */
 	fgets (string1, 20,stdin);
     printf( "\n I am your computer \n" );
 	fgets (string2, 20,stdin);
